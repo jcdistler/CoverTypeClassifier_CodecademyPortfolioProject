@@ -18,3 +18,5 @@ Use TensorFlow with Keras to build your classifier(s).
 Use your knowledge of hyperparameter tuning to improve the performance of your model(s).
 Test and analyze performance.
 Create clean and modular code.
+
+![image](https://github.com/user-attachments/assets/0eacdabb-1d21-43a3-9bc5-98be77891fb5)
